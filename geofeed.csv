@@ -1,4 +1,2 @@
 network,iso_country code,iso_region_code,city_name,postal_code
-2a12:3fc5:0000::/36,TW,TW-TPE,Taipei,
-2a12:3fc5:1000::/36,JP,JP-13,Tokyo,
-2a12:3fc5:2000::/36,NL,NL-NH,Amsterdam,
+2a12:3fc5::/32,NL,NL-NH,Amsterdam,
